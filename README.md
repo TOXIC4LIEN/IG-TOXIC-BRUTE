@@ -18,11 +18,11 @@ Usage of TOXIC4LIEN for attacking targets without prior mutual consent is illega
 
 ### Usage:
 ```
-git clone https://github.com/MrxH4ckr/mrx.IGBRUTE.git
-cd mrx.IGBRUTE
-chmod +x mrxinsta.sh
+https://github.com/TOXIC4LIEN/IG-TOXIC-BRUTE.git
+cd IG-TOXIC-BRUTE
+chmod +x toxic-IG.sh
 service tor start
-bash mrxinsta.sh
+bash toxic-IG.sh
 ```
 
 ### Install requirements (Curl, Tor, Openssl):
