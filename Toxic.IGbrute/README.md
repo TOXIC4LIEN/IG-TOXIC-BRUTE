@@ -1,5 +1,6 @@
-# Igbrute
-### Instagram Bruter
+# TEAM TOXIC
+## Author: github.com/TOXIC4LIEN
+## INSTAGRAM BRUTEFORCE TOOL 
 
 [![Version](https://img.shields.io/badge/Version-v2.1.1-blue)]()
 [![Python](https://img.shields.io/badge/Python-v3.6%2B-blue)]()
