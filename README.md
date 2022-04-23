@@ -1,4 +1,4 @@
-# TEAM TOXIC-PROXY
+# TEAM TOXIC
 ## Author: github.com/TOXIC4LIEN
 ## IG: instagram.com/comming zoon
 ### Don't copy this code without give me the credits, 
