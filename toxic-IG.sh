@@ -43,12 +43,6 @@ fi
 
 banner() {
 
-printf "\e[1;77m _                         _____  _____  __ _____  ___  \e[0m\n"
-printf "\e[1;77m| |_ ___  __ _ _ __ ___   /__   \/___\ \/ / \_   \/ __\  \e[0m\n"
-printf "\e[1;77m| __/ _ \/ _` | '_ ` _ \    / /\//  //\  /   / /\/ /     \e[0m\n"
-printf "\e[1;80m| ||  __/ (_| | | | | | |  / / / \_// /  \/\/ /_/ /___   \e[0m\n"
-printf "\e[1;77m \__\___|\__,_|_| |_| |_|  \/  \___/ /_/\_\____/\____/   \e[0m\n"
-printf "\n"
 printf "\e[1;50m\e[40m  Instagram Brute Force Tool by TOXIC 4LIEN   \e[0m\n"
 printf "\n"
 }
